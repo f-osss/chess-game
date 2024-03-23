@@ -3,4 +3,5 @@ A text-based chess game where the user plays against an AI opponent, implemented
 
 # To run the program
 ``javac *.java
+
 ``java Main
